@@ -6,5 +6,5 @@ Sadece temadır.Giriş yapılmaz.Görsel açıdan tasarlanmıştır.Tüm css kod
 # EN(Engilish)
 All css codes are in the "index.html" file.Theme language is turkish.
 
-Ekran Görüntürleri(Screenshot);
+# Ekran Görüntürleri(Screenshot);
 https://i.hizliresim.com/jqLDdr.png
